@@ -1,0 +1,15 @@
+{
+    "ModTitle": "Custom dialog buttons",
+    "ModVersion": "0.1",
+    "ModAuthor": "BadLuckBurt",
+    "ContactInfo": "x",
+    "DFUnity_Version": "0.10.21",
+    "ModDescription": "Custom dialog buttons",
+    "GUID": "1027e5ed-ac81-4776-af01-8c4c131518b6",
+    "Files": [
+        "Assets/Game/Mods/custom-messagebox-buttons/Custom_Messagebox_Buttons.cs",
+        "Assets/Game/Mods/custom-messagebox-buttons/Scripts/CustomMessageBox.cs"
+    ],
+    "Contributes": null,
+    "Dependencies": null
+}
